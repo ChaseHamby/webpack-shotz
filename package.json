@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChaseHamby/webpack-intro.git"
+    "url": "git+https://github.com/ChaseHamby/webpack-shotz.git"
   },
   "author": "Chase Hamby",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChaseHamby/webpack-intro/issues"
+    "url": "https://github.com/ChaseHamby/webpack-shotz"
   },
   "homepage": "https://github.com/ChaseHamby/webpack-intro#readme",
   "devDependencies": {
