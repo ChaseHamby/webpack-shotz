@@ -1,5 +1,5 @@
 {
-  "name": "webpack-intro",
+  "name": "webpack-shotz",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChaseHamby/webpack-intro.git"
+    "url": "git+https://github.com/ChaseHamby/webpack-shotz.git"
   },
   "author": "Chase Hamby",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChaseHamby/webpack-intro/issues"
+    "url": "https://github.com/ChaseHamby/webpack-shotz"
   },
-  "homepage": "https://github.com/ChaseHamby/webpack-intro#readme",
+  "homepage": "https://github.com/ChaseHamby/webpack-shotz#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
